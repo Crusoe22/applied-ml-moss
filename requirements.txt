@@ -119,6 +119,9 @@ wheel
 # JUPYTER (OPTIONAL, NEEDED FOR NOTEBOOKS)
 # ======================================================
 
+# Added by Nolan
+scikit-learn
+
 # Core IPython package that provides an enhanced interactive Python shell (10-15 MB).
 ipython
 
