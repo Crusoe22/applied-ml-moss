@@ -1,9 +1,5 @@
-Peer Review (Required)
-Review one other GitHub repository and provide feedback on:
+Peer Review 
 
-Clarity & Organization (Is the notebook structured and easy to follow?)
-Feature Selection & Justification (Do the chosen features make sense given the objectives?)
-Model Performance & Comparisons (Are the results and comparisons clearly explained?)
-Reflection Quality (Are insights well thought out?)
-Submission: Submit a short peer review document in your own repository titled peer_review.md.
-The peer review must contain a clickable Markdown link to the notebook (.ipynb) file reviewed along with your personal, well-organized and presented 4-pont review. Provide specifics - both positive and constructive feedback. Suggest improvements where possible and explain why a different choice might be useful as well. Focus on actionable suggestions that the author could realistically implement.
+Link: https://github.com/bncodes19/ml-classification-neely/blob/main/model.ipynb 
+
+The notebook is well-structured and easy to follow, even at first glance. The selected features—odor and bruises—are excellent choices for determining whether a mushroom is poisonous or not. The results and model comparisons are clearly explained, with strong reporting that led to very high prediction accuracy. The insights presented are thoughtful and well-articulated. The authors correctly noted that the Random Forest model performed better, likely due to its ability to capture non-linear relationships within the data. This dataset contains several strong features for classification, and I believe that cap color could also be a valuable addition. Given the high accuracy scores, there is a possibility of overfitting to the training data, which would be worth investigating further.
